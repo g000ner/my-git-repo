@@ -20,11 +20,11 @@
 А это тескт после первого коммита 
 
 А вот это код:
-`
+```
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
-`
+```
 И снова меняю файл, на этот раз после второго коммита
